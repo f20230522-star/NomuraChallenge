@@ -1,9 +1,13 @@
 # Quant Challenge and what was done (and future improvements)
-Adversarial client profiling — building a framework to profile/classify client behavior in an adversarial trading context
-XGBoost toxic flow classifier — achieving 55.6% test accuracy using chronological train/test splits (not random splits, which matters for avoiding lookahead bias in financial data)
-Dynamic quoting engine — a market-making style quoting strategy that achieved a Sharpe ratio of ~15 in backtest(Ik its a lot so working on figuring out where i might have overfit the data / or maybe try using DL , lets see)
-Externalization threshold framework — a framework for deciding when to externalize (offload to the broader market) versus internalize order flow
-C++ interest rate curve construction engine — building curve bootstrapping, DCF valuation, IRS (interest rate swap) pricing, and both linear and quadratic interpolation methods (pretty basic but a good Object Oriented Programming practise , could be evaluated further for any arbitary instrument as input which is what i will try to do )
+Adversarial client profiling - building a framework to profile/classify client behavior in an adversarial trading context
+
+XGBoost toxic flow classifier - achieving 55.6% test accuracy using chronological train/test splits (not random splits, which matters for avoiding lookahead bias in financial data)
+
+Dynamic quoting engine - a market-making style quoting strategy that achieved a Sharpe ratio of ~15 in backtest(Ik its a lot so working on figuring out where i might have overfit the data / or maybe try using DL , lets see)
+
+Externalization threshold framework - a framework for deciding when to externalize (offload to the broader market) versus internalize order flow
+
+C++ interest rate curve construction engine - building curve bootstrapping, DCF valuation, IRS (interest rate swap) pricing, and both linear and quadratic interpolation methods (pretty basic but a good Object Oriented Programming practise , could be evaluated further for any arbitary instrument as input which is what i will try to do )
 
 
 
