@@ -1,4 +1,7 @@
 # Quant Challenge and what was done (and future improvements)
+
+These are all the three qs combined and what was used , 
+
 Adversarial client profiling - building a framework to profile/classify client behavior in an adversarial trading context
 
 XGBoost toxic flow classifier - achieving 55.6% test accuracy using chronological train/test splits (not random splits, which matters for avoiding lookahead bias in financial data)
