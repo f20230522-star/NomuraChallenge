@@ -15,7 +15,7 @@ C++ interest rate curve construction engine - building curve bootstrapping, DCF 
 
 
 
-
+ps(my code was giving errors so there is a lot of AI slop in this , will fix it soon)
 
 
 
